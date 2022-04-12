@@ -1,5 +1,6 @@
-# Created by https://www.toptal.com/developers/gitignore/api/python,windows,macos,linux,firebase,visualstudiocode
-# Edit at https://www.toptal.com/developers/gitignore?templates=python,windows,macos,linux,firebase,visualstudiocode
+
+# Created by https://www.toptal.com/developers/gitignore/api/python,visualstudiocode,macos,windows,linux,firebase
+# Edit at https://www.toptal.com/developers/gitignore?templates=python,visualstudiocode,macos,windows,linux,firebase
 
 ### Firebase ###
 .idea
@@ -255,4 +256,6 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# End of https://www.toptal.com/developers/gitignore/api/python,windows,macos,linux,firebase,visualstudiocode
+# End of https://www.toptal.com/developers/gitignore/api/python,visualstudiocode,macos,windows,linux,firebase
+
+todolistAccountKey.json
